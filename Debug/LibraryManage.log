@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\taeya\desktop\librarymanage\main.c(5): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\taeya\desktop\librarymanage\main.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\users\taeya\desktop\librarymanage\main.c(166): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  LibraryManage.vcxproj -> C:\Users\taeya\Desktop\LibraryManage\Debug\LibraryManage.exe
